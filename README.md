@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sethavathanak.sao@student.cadt.edu.kh">
+  <a href="mailto:haysan.eang@gmail.com">
     <img src="https://img.shields.io/badge/Email-haysan.eang%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/issadim">
+  <a href="https://t.me/Haysannn">
     <img src="https://img.shields.io/badge/Telegram-@Haysannn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/dim.dom.39904181">
+  <a href="https://facebook.com/eang.haysan">
     <img src="https://img.shields.io/badge/Facebook-Eang%20Haysan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
