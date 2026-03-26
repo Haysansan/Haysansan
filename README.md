@@ -68,7 +68,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=obviouslynotdim&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=haysansan&theme=radical&hide_border=true"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=obviouslynotdim&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=haysansan&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
