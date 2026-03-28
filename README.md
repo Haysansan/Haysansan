@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZubTA1cHJieXEzNWl6YTNqd2dicXFlMHJoeGh6aTY0N2Fuczk3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cVrccUf0NC1TQlLiZf/giphy.gif" width="100px" style="vertical-align: middle;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhyODZpaHZ6ZnNvYmszY281bnF3ZjJsYmRrYjlqNDBrMmE5b3VjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zm972PfUa8w3XiN4fy/giphy.gif" width="100px" style="vertical-align: middle;"/>
    Hey, I'm Eang Haysan!
 </h1>
 
