@@ -3,9 +3,11 @@
 </p>
 
 <h1 align="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0bWUzMWo0NGt1d3U1dHdkN2g1c3ViZjJ4ZGQyZHBxa2JiYmc1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QENmzqGngwId5i5KDT/giphy.gif" width="100px" style="vertical-align: middle;"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0bWUzMWo0NGt1d3U1dHdkN2g1c3ViZjJ4ZGQyZHBxa2JiYmc1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QENmzqGngwId5i5KDT/giphy.gif" width="100px" style="vertical-align: middle;"/>
    Hey, I'm Eang Haysan!
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0bWUzMWo0NGt1d3U1dHdkN2g1c3ViZjJ4ZGQyZHBxa2JiYmc1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QENmzqGngwId5i5KDT/giphy.gif" width="100px" style="vertical-align: middle;"/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ0bWUzMWo0NGt1d3U1dHdkN2g1c3ViZjJ4ZGQyZHBxa2JiYmc1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QENmzqGngwId5i5KDT/giphy.gif" width="100px" style="vertical-align: middle;"/>
 </h1>
 
 <p align="center">
